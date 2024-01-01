@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+.foodBox {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.food {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+img {
+  height: 60vh;
+}
